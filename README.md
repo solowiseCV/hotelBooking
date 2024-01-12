@@ -29,4 +29,24 @@ Here are some concepts of version control
      Version control systems maintain a complete history of changes made to a project, allowing users to review and revert to previous states if needed.
       This historical record helps in understanding who made a particular change, when it was made, and why.
 
-  
+  ## Explain difference between git and github
+     
+  - Git:  
+     Definition:Git is a distributed version control system designed to track changes in source code during software development. It is open-source and was created by Linus Torvalds.
+     - Functionality:
+        Git provides the core version control functionality, allowing users to create and manage repositories, make commits, create branches, and merge changes.
+     - Local:
+         Git operates locally on a user's machine. Developers can work on their projects without needing an internet connection or a central server. 
+     - Command Line:
+         Git is primarily used through the command line, although there are graphical user interfaces available for those who prefer a visual interface.   
+        
+   - GitHub:
+      Definition:GitHub is a web-based platform that provides hosting for software development projects that use Git for version control.
+     - Hosting and collaboration:
+        GitHub is a web-based platform that provides hosting for software development projects that use Git for version control.
+     - Integration: 
+         GitHub integrates with various third-party tools, and it has become a standard platform for open-source development, as well as for many private repositories.
+     - Web Interface:
+          GitHub offers a web-based interface that simplifies collaboration. Users can manage repositories, create issues, perform code reviews, and more through the web interface.
+     - Social Features:
+         GitHub includes social features such as pull requests, forks, stars, and followers, making it a social platform for collaboration and community involvement.
