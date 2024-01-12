@@ -50,3 +50,11 @@ Here are some concepts of version control
           GitHub offers a web-based interface that simplifies collaboration. Users can manage repositories, create issues, perform code reviews, and more through the web interface.
      - Social Features:
          GitHub includes social features such as pull requests, forks, stars, and followers, making it a social platform for collaboration and community involvement.
+
+## List 3 other github alternatives
+   
+   *Three other github alternatives are*
+    - GitLab
+    - Bitbucket
+    - SourceForge
+ 
